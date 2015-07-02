@@ -1,0 +1,24 @@
+{
+  "name": "cast-json",
+  "version": "0.0.1",
+  "description": "A parser for casting values when transforming json.",
+  "main": "lib/index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DylanPiercey/cast-json.git"
+  },
+  "author": "Dylan Piercey <pierceydylan@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DylanPiercey/cast-json/issues"
+  },
+  "homepage": "https://github.com/DylanPiercey/cast-json",
+  "devDependencies": {
+    "coffee-script": "^1.9.2",
+    "gulp": "^3.9.0",
+    "gulp-coffee": "^2.3.1",
+    "gulp-header": "^1.2.2",
+    "gulp-mocha": "^2.1.2",
+    "mocha": "^2.2.5"
+  }
+}
